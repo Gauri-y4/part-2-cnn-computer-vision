@@ -1,6 +1,6 @@
 # part-2-cnn-computer-vision
 
-#Task 6: CNN Concept Explanation
+# TASK 6: CNN Concept Explanation
 ## What is convolution?
 Convolution is a process where small filters move across an image to detect important features such as edges, textures, and shapes. CNNs automatically learn these filters during training.
 
@@ -14,7 +14,8 @@ ReLU (Rectified Linear Unit) is commonly used because it introduces non-linearit
 CNNs are specifically designed for image processing. They can automatically detect spatial patterns and features in images, while regular feed-forward networks treat every pixel independently and become inefficient for image tasks.
 
 -------------------------------------------------------------------------------------------------------------------------------
-#Task 7: Business Use Case Mapping
+# TASK 7: Business Use Case Mapping
+
 This CNN-based image classification system can be used in healthcare for medical image analysis. For example, CNNs can help classify X-ray or MRI images to assist in disease detection.
 
 Similar computer vision systems are also used in retail for product recognition, agriculture for crop disease detection, security for facial recognition, and autonomous vehicles for object detection and road analysis.
